@@ -1,0 +1,7 @@
+if(isCar){
+  priority = Priority.High;
+}
+else
+{
+  priority = Priority.Low;
+}
